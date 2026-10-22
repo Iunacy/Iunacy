@@ -4,8 +4,6 @@ Robotics & AI undergraduate.
 
 Interested in machine learning, robotics, and building things that catch my attention.
 
-working on..
-
 ### working on..
 
 [**RELIC**](https://github.com/Iunacy/RELIC) — robotic manipulation and adaptive control.
