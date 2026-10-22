@@ -1,13 +1,17 @@
-# Hi
+iris
 
-Hi, I'm Trong, a Robotics and AI undergraduate.
+Robotics & AI undergraduate.
 
-I'm interested in machine learning, robotics, and building things that I find interesting.
+Interested in machine learning, robotics, and building things that catch my attention.
 
-This is where I keep my projects and experiments.
+working on..
 
-## 🔗 Languages and Tools
+### working on..
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,pytorch,mysql,docker" />
-</p>
+[**RELIC**](https://github.com/Iunacy/RELIC) — robotic manipulation and adaptive control.
+
+Also tinkering with [**iris**](https://github.com/Iunacy/iris), my Arch Linux setup.
+
+languages & tools
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,pytorch,mysql,docker" />
