@@ -1,15 +1,13 @@
-iris
-
 Robotics & AI undergraduate.
 
 Interested in machine learning, robotics, and building things that catch my attention.
 
 ### working on..
 
-[**RELIC**](https://github.com/Iunacy/RELIC) — robotic manipulation and adaptive control.
+[**viper**](https://github.com/Iunacy/viper) — robotic manipulation and adaptive control.
 
-Also tinkering with [**iris**](https://github.com/Iunacy/iris), my Arch Linux setup.
+[**axis**] (https://github.com/Iunacy/axis) - a chess learning platform that tailors to your mistakes.
 
-languages & tools
+Languages & tools
 
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,pytorch,mysql,docker" />
