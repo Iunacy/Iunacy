@@ -6,7 +6,7 @@ Interested in machine learning, robotics, and building things that catch my atte
 
 [**viper**](https://github.com/Iunacy/viper) — robotic manipulation and adaptive control.
 
-[**axis**] (https://github.com/Iunacy/axis) - a chess learning platform that tailors to your mistakes.
+[**axis**](https://github.com/Iunacy/axis) - a chess learning platform that tailors to your mistakes.
 
 Languages & tools
 
